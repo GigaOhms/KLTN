@@ -1,0 +1,197 @@
+[1]	Binghamton University, Binghamton professor recognized for energy research. The Research Foundation for the State University of New York, 2019
+
+[2]	Ramanan, A. Nobel Prize in Chemistry 2019. Resonance, 24(12), 1381-1395, 2019.
+
+[3]	Samsung SDI. The Four Components of a Li-ion Battery
+https://www.samsungsdi.com/column/technology/detail/55272.html
+
+[4]	HOPAX FC. The 4 major components of the lithium-ion battery
+https://www.hopaxfc.com/en/blog/the-4-major-components-of-the-lithium-ion-battery. 2021.
+
+[5]	Richtek. Li-ion Battery and Gauge Introduction
+https://www.richtek.com/Design%20Support/Technical%20Document/AN024
+
+[6]	Chen, X., Shen, W., Cao, Z., & Kapoor, A. Adaptive gain sliding mode observer for state of charge estimation based on combined battery equivalent circuit model. Computers & Chemical Engineering, 64, 114-123. 2014.
+
+[7]	Hua, A. C. C., & Syue, B. Z. W. Charge and discharge characteristics of lead-acid battery and LiFePO4 battery. In The 2010 International Power Electronics Conference-ECCE ASIA- (pp. 1478-1483), IEEE, 2010, June.
+
+[8]	Xiong, R., Zhang, Y., Wang, J., He, H., Peng, S., & Pecht, M. Lithium-ion battery health prognosis based on a real battery management system used in electric vehicles. IEEE Transactions on Vehicular Technology, 68(5), 4110-4121, 2018.
+
+[9]	Hussein, A. A. H., & Batarseh, I. A review of charging algorithms for nickel and lithium battery chargers. IEEE Transactions on Vehicular Technology, 60(3), 830-838, 2011.
+
+[10]	Liu, C. L., Wang, S. C., Liu, Y. H., & Tsai, M. C. An optimum fast charging pattern search for Li-ion batteries using particle swarm optimization. In The 6th International Conference on Soft Computing and Intelligent Systems, and The 13th International Symposium on Advanced Intelligence Systems (pp. 727-732), IEEE, 2012, November.
+
+[11]	Liu, Y. H., Teng, J. H., & Lin, Y. C. Search for an optimal rapid charging pattern for lithium-ion batteries using ant colony system algorithm. IEEE Transactions on Industrial Electronics, 52(5), 1328-1336, 2005.
+
+[12]	Liu, Y. H., Hsieh, C. H., & Luo, Y. F. Search for an optimal five-step charging pattern for Li-ion batteries using consecutive orthogonal arrays. IEEE Transactions on Energy Conversion, 26(2), 654-661, 2011.
+
+[13]	Ma, J., Wang, Z., & Su, X. Study on charging characteristics of Li-ion battery using high-current pulse charging method. Journal of Power Supply, (90) 30-31, 2013.
+
+[14]	Purushothaman, B. K., & Landau, U. Rapid charging of lithium-ion batteries using pulsed currents: A theoretical analysis. Journal of The Electrochemical Society, 153(3), A533, 2006.
+
+[15]	Notten, P. H., het Veld, J. O., & Van Beek, J. R. G. Boostcharging Li-ion batteries: A challenging new charging concept. Journal of Power Sources, 145(1), 89-94. 2005.
+
+[16]	Phu, D. B. Quy, N. D., Hoc, D. P., & Trung, N, K, Research On The Fast Charging Method For Lithium Battery Based On Thermal Model. Jonural of Science and Technology for Energy, 26, 2021.
+
+[17]	Cheng, P. H., & Chen, C. L. A high-efficiency fast charger for lead-acid batteries. In IEEE 2002 28th Annual Conference of the Industrial Electronics Society. IECON 02 (Vol. 2, pp. 1410-1415), IEEE, 2002, November.
+
+[18]	On Semiconductor. Rev.5. Power Factor Correction (PFC) Handbook. HBD853/D, 2014, Apr.
+
+[19]	Schramm, Ben, "Power Supply Design Principles: Techniques and Solutions, Part 3". Newsletter, Nuvation, archived from the original on 2007-03-09, 2006.
+
+[20]	W. H. Wolfle and W. G. Hurley. "Quasi-active power factor correction with a variable inductive filter: theory, design and practice,". IEEE Transactions on Power Electronics, vol. 18, no. 1, pp. 248-255, 2003, Jan.
+
+[21]	Wolfle, W., Hurley, W. G., & Lambert, S. Quasi-active power factor correction: the role of variable inductance. In 2001 IEEE 32nd Annual Power Electronics Specialists Conference (IEEE Cat. No. 01CH37230) (Vol. 4, pp. 2078-2083), IEEE, 2001, June.
+
+[22]	Toshiba. Power Factor Correction (PFC) Circuits Application Note. 2019.
+
+[23]	Xu, D., Zhang, J., Chen, W., Lin, J., & Lee, F. C. Evaluation of output filter capacitor current ripples in single phase PFC converters. In Proceedings of the Power Conversion Conference-Osaka 2002 (Cat. No. 02TH8579) (Vol. 3, pp. 1226-1231), IEEE, 2002, April.
+
+[24]	Lu, B., Brown, R., & Soldano, M. Bridgeless PFC implementation using one cycle control technique. In Twentieth Annual IEEE Applied Power Electronics Conference and Exposition, 2005. APEC 2005. (Vol. 2, pp. 812-817), IEEE, 2005, March.
+
+[25]	Choi, W. Y., Kwon, J. M., Kim, E. H., Lee, J. J., & Kwon, B. H. Bridgeless boost rectifier with low conduction losses and reduced đi-ốt reverse-recovery problems. IEEE Transactions on industrial electronics, 54(2), 769-780, 2007.
+
+[26]	Huber, L., Jang, Y., & Jovanovic, M. M. Performance evaluation of bridgeless PFC boost rectifiers. IEEE transactions on power electronics, 23(3), 1381-1390, 2008.
+
+[27]	Kong, P., Wang, S., & Lee, F. C. Common mode EMI noise  suppression for bridgeless PFC converters. IEEE Transactions on  Power Electronics, 23(1), 291-297, 2008.
+
+[28]	Baur, T., Reddig, M., & Schlenk, M. Line-conducted EMIbehaviour of a High Efficient PFC-stage without input rectification. Infineon Technology–Application Note, 2006.
+
+[29]	O’Loughlin, M. An Interleaved PFC Preregulator for High-Power  Converters." vol. Topic, 5, 5-1.
+
+[30]	Jang, Y., & Jovanovic, M. M. Interleaved boost converter with intrinsic voltage-doubler characteristic for universal-line PFC front end. IEEE transactions on power electronics, 22(4), 1394-1401, 2007.
+
+[31]	Kong, P., Wang, S., Lee, F. C., & Wang, C. Common-mode  EMI study and reduction technique for the interleaved multichannel PFC converter. IEEE Transactions on Power Electronics, 23(5), 2576-2584, 2008.
+
+[32]	Musavi, F., Eberle, W., & Dunford, W. G. A high-performance single-phase bridgeless interleaved PFC converter for plug-in hybrid electric vehicle battery chargers. IEEE Transactions on Industry Applications, 47(4), 1833-1843, 2011.
+
+[33]	Texas Instruments. Improving the Performance of Traditional Flyback Topology With Two-Switch –Approach. SNVA716, 2014, July.
+
+[34]	Texas Instruments. LM5015 High Voltage Monolithic Two-Switch Forward DC-DC Regulator. SNVS538C, 2013.
+
+[35]	Zhang, X., Wang, B., Ding, H., & Xu, D. Study of CCM Boost PFC based on Simulink. In Proceedings of The 7th International Power Electronics and Motion Control Conference (Vol. 3, pp. 1756-1760), IEEE, 2012, June.
+
+[36]	Nguyen, C. L., & Lee, H. H. Robust and unity input power factor control scheme for electric vehicle battery charger. The Transactions of the Korean Institute of Power Electronics, 20(2), 182-192, 2015.
+
+[37]	M. K. Kazimierczuk, Pulse-Width Modulated DC-DC Power Converters. Chichester: John Wiley & Sons, Ltd, 2008.
+
+[38]	Ye, M., Gong, H., Xiong, R., & Mu, H. Research on the battery charging strategy with charging and temperature rising control awareness. IEEE Access, 6, 64193-64201, 2018.
+
+[39]	Infineon Technologies North America (IFNA) Corp. CCM PFC Boost Converter Design. V1.0 DN 2013-01, 2013.
+
+[40]	Wuti, V., Luangpol, A., Tattiwong, K., & Bunlaksananusorn, C. Analysis Design and Implementation of a Two-Switch Forward Converter.
+
+[41]	Avago technology. HCPL-7800A/HCPL-7800 Isolation Amplifer Datasheet
+
+[42]	Details of the long-tailed pair circuitry used in early computing can be found in Alan Turing’s Automatic Computing Engine (Oxford University Press, 2005, ISBN 0-19-856593-3) in Part IV, "ELECTRONICS".
+
+[43]	Allegro. Fully Integrated, Hall Effect-Based Linear Current Sensor with 2.1 kVRMS Voltage Isolation and a Low-Resistance Current Conductor.
+
+[44]	Peter B. Green, Liz Zheng. Gate drive for power MOSFETs in switching
+applications A guide to device characteristics and gate drive techniques. Infineon.
+
+[45]	Williams, A. B., & Taylor, F. J. Electronic filter design handbook. McGraw-Hill Education, 2006.
+
+[46]	Texas Insrtruments  Incorporated. Application Brief Interfacing a Differential-Output (Isolated) Amp to a Single-Ended Input ADC. 2022.
+
+
+void Calib2(void){
+
+    // ---------------------------- VPFC ----------------------
+    if (VPFCmeas <= 2.32 + 0.0)
+            VPFCmeas = (VPFCmeas - Voffset) * 234.8484848;
+    else if (VACmeas <= 2.34 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 238.8059701;
+    else if (VACmeas <= 2.37 + 0.00)
+            VPFCmeas = (VPFCmeas - Voffset) * 240.8759124;
+    else if (VACmeas <= 2.39 + 0.00)
+            VPFCmeas = (VPFCmeas - Voffset) * 244.6043165;
+    else if (VACmeas <= 2.43 + 0.00)
+            VPFCmeas = (VPFCmeas - Voffset) * 244.7552448;
+    else if (VACmeas <= 2.45 + 0.00)
+            VPFCmeas = (VPFCmeas - Voffset) * 248.2758621;
+    else if (VACmeas <= 2.48 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 250;
+    else if (VACmeas <= 2.5 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 253.3333333;
+    else if (VACmeas <= 2.52 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 256.5789474;
+    else if (VACmeas <= 2.54 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 259.7402597;
+    else if (VACmeas <= 2.56 + 0.05)
+            VPFCmeas = (VPFCmeas - Voffset) * 262.8205128;
+    else
+            VPFCmeas = (VPFCmeas - Voffset) * 265.8227848;
+}
+
+void Calib3(void){
+
+    // ---------------------------- BAT ----------------------
+    if (VBATmeas <= 2.34 + 0.0)
+            VBATmeas = (VBATmeas - Voffset) * 22.3880597;
+    else if (VBATmeas <= 2.38 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 22.46376812;
+    else if (VBATmeas <= 2.41 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 22.69503546;
+    else if (VBATmeas <= 2.44 + 0.0)
+        VBATmeas = (VPFCmeas - Voffset) * 22.91666667;
+    else if (VBATmeas <= 2.46 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 23.28767123;
+    else if (VBATmeas <= 2.49 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 23.48993289;
+    else if (VBATmeas <= 2.53 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 23.52941176;
+    else if (VBATmeas <= 2.56 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 23.71794872;
+    else if (VBATmeas <= 2.58 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 24.05063291;
+    else if (VBATmeas <= 2.61 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 24.22360248;
+    else if (VBATmeas <= 2.63 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 24.5398773;
+    else if (VBATmeas <= 2.66 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 24.69879518;
+    else if (VBATmeas <= 2.68 + 0.0)
+        VBATmeas = (VBATmeas - Voffset) * 25;
+    else
+        VBATmeas = (VBATmeas - Voffset) * 25.29411765;
+}
+
+
+
+
+inline void Calib(void)
+{
+    if (VACmeas <= 1.179 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 157.2327044;
+    else if (VACmeas <= 1.32 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 166.6666667;
+    else if (VACmeas <= 1.58 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 178.5714286;
+    else if (VACmeas <= 1.71 + 0.000)
+            VACmeas = (VACmeas - Voffset) * 181.1594203;
+    else if (VACmeas <= 1.81 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 189.8734177;
+    else if (VACmeas <= 1.94 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 190.2173913;
+    else if (VACmeas <= 2.06 + 0.00)
+            VACmeas = (VACmeas - Voffset) * 192.3076923;
+    else if (VACmeas <= 2.17 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 195.6521739;
+    else if (VACmeas <= 2.26 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 201.6129032;
+    else if (VACmeas <= 2.35 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 206.7669173;
+    else if (VACmeas <= 2.40 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 212.7669173;
+    else if (VACmeas <= 2.45 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 216.7832168;
+    else if (VACmeas <= 2.46 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 218.75;
+    else if (VACmeas <= 2.47 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 220.6896552;
+    else if (VACmeas <= 2.48 + 0.0)
+            VACmeas = (VACmeas - Voffset) * 222.6027397;
+    else    //(VACmeas <= 2.5 + 0.05)
+            VACmeas = (VACmeas - Voffset) * 222.972973;
+

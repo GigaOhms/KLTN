@@ -1,0 +1,4 @@
+Added Component: Designator=P?(tp_red_1p)
+Added Pin To Net: NetName=+5 Pin=P?-1
+Added Member To Class: ClassName=testSensor Member=Component P? test PCB
+Added Room: Name=testSensor

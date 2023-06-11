@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VSS1 Pin=R31-1
+Removed Pin From Net: NetName=NetP29_1 Pin=R31-2
+Removed Pin From Net: NetName=VSS2 Pin=R40-1
+Removed Pin From Net: NetName=NetP31_1 Pin=R40-2
+Removed Pin From Net: NetName=VSS3 Pin=R45-1
+Removed Pin From Net: NetName=NetP33_1 Pin=R45-2
+Removed Pin From Net: NetName=VSS1 Pin=VH4-2
+Removed Pin From Net: NetName=VSS2 Pin=VH5-2
+Removed Pin From Net: NetName=VSS3 Pin=VH6-2
+Removed Member From Class: ClassName=ControlBoard Member=R31
+Removed Member From Class: ClassName=ControlBoard Member=R40
+Removed Member From Class: ClassName=ControlBoard Member=R45
+Added Pin To Net: NetName=COM1 Pin=VH4-2
+Added Pin To Net: NetName=COM2 Pin=VH5-2
+Added Pin To Net: NetName=COM3 Pin=VH6-2
+Added Member To Class: ClassName=ControlBoard Member=Component C13 1nF
+Added Member To Class: ClassName=ControlBoard Member=Component C14 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C16 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C19 22nF
+Added Member To Class: ClassName=ControlBoard Member=Component C21 0.1uF
+Added Member To Class: ClassName=ControlBoard Member=Component C22 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C23 1nF
+Added Member To Class: ClassName=ControlBoard Member=Component C24 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C25 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C27 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C28 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C30 22nF
+Added Room: Name=ControlBoard

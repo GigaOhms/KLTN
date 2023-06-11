@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=testTrans Member=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J2
+Added Component: Designator=C1(CAP DxL 30x45)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GNP Pin=C1-2
+Added Member To Class: ClassName=testTrans Member=Component C1 470uF 450V
+Added Member To Class: ClassName=testTrans Member=Component J2 CONN_TB2
+Added Room: Name=testTrans

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=P30-1
+Removed Pin From Net: NetName=GND Pin=P32-1
+Change Component Designator: OldDesignator=          NewDesignator=D4
+Change Component Designator: OldDesignator=      NewDesignator=R18
+Added Component: Designator=LO1(SCMH_M3P5FT)
+Added Component: Designator=LO2(SCMH_M3P5FT)
+Added Component: Designator=LO3(SCMH_M3P5FT)
+Added Component: Designator=LO4(SCMH_M3P5FT)
+Added Member To Class: ClassName=ControlBoard Member=Component D4 =VALUE
+Added Member To Class: ClassName=ControlBoard Member=Component LO1 LO KHOAN
+Added Member To Class: ClassName=ControlBoard Member=Component LO2 LO KHOAN
+Added Member To Class: ClassName=ControlBoard Member=Component LO3 LO KHOAN
+Added Member To Class: ClassName=ControlBoard Member=Component LO4 LO KHOAN
+Added Member To Class: ClassName=ControlBoard Member=Component R18 1K
+Added Room: Name=ControlBoard

@@ -1,0 +1,7 @@
+Added Component: Designator=P3(tp_white_1p)
+Added Pin To Net: NetName=COM1 Pin=P3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=P9-1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetP9_1
+Added Member To Class: ClassName=testTrans Member=Component P3 test PCB
+Added Member To Class: ClassName=testTrans Member=Component P9 test PCB
+Added Room: Name=testTrans

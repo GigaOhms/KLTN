@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=GNP Pin=C1-2
+Added Component: Designator=C?(CAP DxL 8x13.5)
+Added Pin To Net: NetName=NetC1_1 Pin=C?-1
+Added Pin To Net: NetName=GNP Pin=C?-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC?_1
+Added Member To Class: ClassName=testTrans Member=Component C? 100uF 400V
+Added Member To Class: ClassName=testTrans Member=Component J2 CONN_TB2
+Added Room: Name=testTrans

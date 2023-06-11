@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=IL
+Change Component Designator: OldDesignator=P7 NewDesignator=VAC
+Change Component Designator: OldDesignator=P8 NewDesignator=IBAT
+Change Component Designator: OldDesignator=P13 NewDesignator=VPFC
+Added Room: Name=ControlBoard

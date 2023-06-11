@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=VH1 NewDesignator=P_VAC
+Change Component Designator: OldDesignator=VH2 NewDesignator=P_VPFC
+Change Component Designator: OldDesignator=VH3 NewDesignator=P_VBAT
+Change Component Designator: OldDesignator=VH4 NewDesignator=SWH1
+Change Component Designator: OldDesignator=VH5 NewDesignator=SWH2
+Change Component Designator: OldDesignator=VH6 NewDesignator=SWH3
+Change Component Designator: OldDesignator=XH1 NewDesignator=P_IL
+Change Component Designator: OldDesignator=XH2 NewDesignator=P_IBAT
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetP_IL_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetP_IBAT_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetP_VAC_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetP_VPFC_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetP_VBAT_1
+Added Member To Class: ClassName=ControlBoard Member=Component SW1 test PCB
+Added Member To Class: ClassName=ControlBoard Member=Component SW2 test PCB
+Added Room: Name=ControlBoard

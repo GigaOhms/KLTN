@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GNDA Pin=R21-1
+Removed Pin From Net: NetName=GNDA Pin=VH2-1
+Added Pin To Net: NetName=GNDA Pin=VH2-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=VH2-1
+Added Net: Name=NetR21_1
+Added Member To Class: ClassName=ControlBoard Member=Component C10 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C11 4.7nF
+Added Member To Class: ClassName=ControlBoard Member=Component C12 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C14 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C15 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C17 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C19 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component C21 150pF
+Added Member To Class: ClassName=ControlBoard Member=Component C24 100nF
+Added Member To Class: ClassName=ControlBoard Member=Component D3 =VALUE
+Added Member To Class: ClassName=ControlBoard Member=Component D4 =VALUE
+Added Member To Class: ClassName=ControlBoard Member=Component D6 ZMM3V3
+Added Member To Class: ClassName=ControlBoard Member=Component R3 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R4 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R5 680
+Added Member To Class: ClassName=ControlBoard Member=Component R6 470
+Added Member To Class: ClassName=ControlBoard Member=Component R7 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R9 2K
+Added Member To Class: ClassName=ControlBoard Member=Component R10 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R11 470
+Added Member To Class: ClassName=ControlBoard Member=Component R12 1.2K
+Added Member To Class: ClassName=ControlBoard Member=Component R14 1M
+Added Member To Class: ClassName=ControlBoard Member=Component R16 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R17 1.2K
+Added Member To Class: ClassName=ControlBoard Member=Component R18 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R19 1.2K
+Added Member To Class: ClassName=ControlBoard Member=Component R21 1M
+Added Member To Class: ClassName=ControlBoard Member=Component R23 1M
+Added Member To Class: ClassName=ControlBoard Member=Component R25 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R27 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R29 8R2 1W
+Added Member To Class: ClassName=ControlBoard Member=Component R30 150R
+Added Member To Class: ClassName=ControlBoard Member=Component R31 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R32 4.7K
+Added Member To Class: ClassName=ControlBoard Member=Component R33 680K
+Added Member To Class: ClassName=ControlBoard Member=Component R34 470
+Added Member To Class: ClassName=ControlBoard Member=Component R36 3.3K
+Added Member To Class: ClassName=ControlBoard Member=Component R37 150R
+Added Member To Class: ClassName=ControlBoard Member=Component R39 3K
+Added Member To Class: ClassName=ControlBoard Member=Component R41 1K
+Added Room: Name=ControlBoard

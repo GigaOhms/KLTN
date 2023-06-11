@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=P5 NewDesignator=5VA
+Change Component Designator: OldDesignator=P6 NewDesignator=GNDA
+Change Component Designator: OldDesignator=P11 NewDesignator=5VB
+Change Component Designator: OldDesignator=P12 NewDesignator=GNDB
+Change Component Designator: OldDesignator=P15 NewDesignator=Vref
+Change Component Designator: OldDesignator=P17 NewDesignator=PWM1
+Change Component Designator: OldDesignator=P18 NewDesignator=PWM2
+Change Component Designator: OldDesignator=P19 NewDesignator=PWM3
+Change Component Designator: OldDesignator=P20 NewDesignator=VSS1
+Change Component Designator: OldDesignator=P21 NewDesignator=VSS2
+Change Component Designator: OldDesignator=P22 NewDesignator=VSS3
+Change Component Designator: OldDesignator=P23 NewDesignator=COM1
+Change Component Designator: OldDesignator=P24 NewDesignator=COM2
+Change Component Designator: OldDesignator=P25 NewDesignator=COM3
+Change Component Designator: OldDesignator=P26 NewDesignator=VDD1
+Change Component Designator: OldDesignator=P27 NewDesignator=VDD2
+Change Component Designator: OldDesignator=P28 NewDesignator=VDD3
+Change Component Designator: OldDesignator=P29 NewDesignator=SW1
+Change Component Designator: OldDesignator=P31 NewDesignator=SW2
+Change Component Designator: OldDesignator=P33 NewDesignator=SW3
+Change Net Name : Old Net Name=NetP29_1 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetP31_1 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetP33_1 New Net Name=NetR43_2
+Added Room: Name=ControlBoard

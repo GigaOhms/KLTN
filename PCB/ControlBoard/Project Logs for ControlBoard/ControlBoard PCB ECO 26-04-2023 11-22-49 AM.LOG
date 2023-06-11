@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=U1-J1_1
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-J1_2
+Removed Pin From Net: NetName=NetR7_1 Pin=U1-J1_3
+Added Component: Designator=RB1(R0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "WSLP0805R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "0.5W, -55~155oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RB2(R0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "WSLP0805R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "0.5W, -55~155oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SWPBS_SPDT_6X6X5)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SWPBS_SPDT_6X6X5)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=NetR3_1 Pin=U1-J1_2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-J1_3
+Added Pin To Net: NetName=NetR7_1 Pin=U1-J1_4
+Added Pin To Net: NetName=3V3 Pin=RB1-1
+Added Pin To Net: NetName=3V3 Pin=RB2-1
+Added Pin To Net: NetName=3V3 Pin=U1-J1_1
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetRB1_2 Pin=RB1-2
+Added Pin To Net: NetName=NetRB1_2 Pin=SW1-1
+Added Pin To Net: NetName=NetRB1_2 Pin=SW1-3
+Added Pin To Net: NetName=NetRB1_2 Pin=U1-J1_6
+Added Net: Name=NetRB1_2
+Added Pin To Net: NetName=NetRB2_2 Pin=RB2-2
+Added Pin To Net: NetName=NetRB2_2 Pin=SW2-1
+Added Pin To Net: NetName=NetRB2_2 Pin=SW2-3
+Added Pin To Net: NetName=NetRB2_2 Pin=U1-J1_5
+Added Net: Name=NetRB2_2
+Added Member To Class: ClassName=ControlBoard Member=Component RB1 10K
+Added Member To Class: ClassName=ControlBoard Member=Component RB2 10K
+Added Member To Class: ClassName=ControlBoard Member=Component SW1 SW
+Added Member To Class: ClassName=ControlBoard Member=Component SW2 SW
+Added Member To Class: ClassName=ControlBoard Member=Component U4 LM358
+Added Room: Name=ControlBoard

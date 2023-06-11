@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 Pin=P30-1
+Removed Pin From Net: NetName=GND Pin=P32-1
+Removed Member From Class: ClassName=ControlBoard Member=P30
+Removed Member From Class: ClassName=ControlBoard Member=P32
+Change Component Designator: OldDesignator=          NewDesignator=D4
+Change Component Designator: OldDesignator=      NewDesignator=R18
+Added Room: Name=ControlBoard
